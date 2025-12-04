@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\layouts-message-boilerplate\utils\service-hooks-handler.adoc
+// Generated at: 2025-10-10T03:55:00.598Z
